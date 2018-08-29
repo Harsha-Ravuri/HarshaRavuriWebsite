@@ -1,6 +1,5 @@
 # harshaWebsite
 
 To access my website, go to:
- https://harsharavuriprojects.github.io/HarshaRavuriWebsite/
- 
+https://harsha-ravuri.github.io/HarshaRavuriWebsite/ 
 *UNDER CONSTRUCTION. MORE CONTENT COMING SOON*
