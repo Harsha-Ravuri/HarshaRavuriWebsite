@@ -1640,13 +1640,8 @@
     content:"\f219"
 }
 
-.fa-diamond:hover {
-    border-bottom-color: #f56a6a;
-    color: #f56a6a !important;
-}
-
-.fa-diamond:hover strong {
-    color: inherit;
+.fa-diamond img:hover {
+    opacity: .5;
 }
 
 .fa-ship:before{
