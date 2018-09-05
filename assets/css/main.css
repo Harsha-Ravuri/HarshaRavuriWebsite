@@ -2550,6 +2550,15 @@
 		position: relative;
 	}
 
+	.image:hover {
+		border-bottom-color: #f56a6a;
+		color: #f56a6a !important;
+	}
+
+		.image:hover strong {
+			color: inherit;
+		}
+
 		.image img {
 			border-radius: 0.375em;
 			display: block;
