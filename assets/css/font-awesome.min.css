@@ -1640,7 +1640,7 @@
     content:"\f219"
 }
 
-.fa-diamond img:hover {
+.fa-diamond:before img:hover {
     opacity: .5;
 }
 
